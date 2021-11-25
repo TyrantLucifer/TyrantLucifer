@@ -11,10 +11,10 @@
 ### I'm Tyrant Lucifer
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Tianjin, China.
+- 🌱 Currently working in Beijing, China.
 - 💬 Ask me about Linux, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
 - ⭐ You may like [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)
-- ⚡ Fun fact: Data Analysis📊
+- ⚡ Fun fact: Big Data technology📊
 
 ### 🛠 技术栈 | Tech Stack
 
