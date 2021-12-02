@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
 
 ### I'm Tyrant Lucifer
 
@@ -15,6 +15,7 @@
 - 💬 Ask me about Linux, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
 - ⭐ You may like [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)
 - ⚡ Fun fact: Big Data technology📊
+
 
 ### 🛠 技术栈 | Tech Stack
 
