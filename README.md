@@ -12,7 +12,7 @@
 ### I'm Tyrant Lucifer
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Beijing, China.
+- 🌱 Currently I am a big data engineer and working in Beijing of China.
 - 💬 Ask me about Linux, Big data, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
 - ⚡ Fun fact: Big Data technology📊
 
