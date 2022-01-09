@@ -1,8 +1,9 @@
 [comment]: <> "# 模板合集：https://github.com/kautukkundan/Awesome-Profile-README-templates"
 
 ## Hello GitHub Fans 👋
-[![程序员交流群](https://img.shields.io/badge/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BA%A4%E6%B5%81%E7%BE%A4-764374820-brightgreen.svg "程序员交流群")](https://jq.qq.com/?_wv=1027&k=RxFjq39n"程序员交流群")
+[![技术交流群](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4-554069363-green "技术交流群")](https://jq.qq.com/?_wv=1027&k=fVfRKuhK"技术交流群")
 [![Mail Badge](https://img.shields.io/badge/E--mail-TyrantLucifer%40gmail.com-green.svg)](mailto:tyrantlucifer@gmail.com)
+![GitHub followers](https://img.shields.io/github/followers/tyrantlucifer?style=social)
 
 ---
 
@@ -12,24 +13,24 @@
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in Beijing, China.
-- 💬 Ask me about Linux, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
-- ⭐ You may like [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)
+- 💬 Ask me about Linux, Big data, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
 - ⚡ Fun fact: Big Data technology📊
 
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
+- 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=FCC624)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 开源项目
-- [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(见名知意)
+- [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(一款命令行下纯python开发的ssr客户端)
 - [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(Typora自动上传图片到github脚本)
 - [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(一键脚本合集)
 
