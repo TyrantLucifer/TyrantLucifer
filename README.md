@@ -35,8 +35,8 @@
 - [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(一键脚本合集) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/Awesome-one-click-shell?style=social)
 
 ### 关于我
-- [个人博客](http://tyrantlucifer.com)
-- [微博](https://weibo.com/u/5238557015)
+- [blog](http://tyrantlucifer.com)
+- [twitter](https://twitter.com/tyrantlucifer)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
