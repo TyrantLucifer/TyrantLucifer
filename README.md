@@ -17,7 +17,7 @@
 - ⚡ Fun fact: Big Data technology📊
 
 
-### 🛠 技术栈 | Tech Stack
+### Tech Stack
 
 - 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -29,12 +29,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 开源项目
-- [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(一款命令行下纯python开发的ssr客户端) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/ssr-command-client?style=social) 
-- [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(Typora自动上传图片到github脚本) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/TyporaUploadImgPlug?style=social)
-- [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(一键脚本合集) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/Awesome-one-click-shell?style=social)
+### Open Source Projects
+- [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(A ssr command client that support all platform based python) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/ssr-command-client?style=social) 
+- [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(A plugin that can auto upload images to github in typora) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/TyporaUploadImgPlug?style=social)
+- [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(A set of some awesome shells) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/Awesome-one-click-shell?style=social)
 
-### 关于我
+### About me
 - [blog](http://tyrantlucifer.com)
 - [twitter](https://twitter.com/tyrantlucifer)
 
