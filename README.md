@@ -7,9 +7,10 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tyrantlucifer)
 ---
 
+<div>
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact)](https://github.com/tyrantlucifer/github-readme-stats)
+<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
+</div>
 
 ### I'm Tyrant Lucifer
 
