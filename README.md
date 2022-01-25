@@ -4,10 +4,12 @@
 [![技术交流群](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4-554069363-green "技术交流群")](https://jq.qq.com/?_wv=1027&k=fVfRKuhK"技术交流群")
 [![Mail Badge](https://img.shields.io/badge/E--mail-TyrantLucifer%40gmail.com-green.svg)](mailto:tyrantlucifer@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/tyrantlucifer?style=social)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=tyrantlucifer)
 ---
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact)](https://github.com/tyrantlucifer/github-readme-stats)
 
 ### I'm Tyrant Lucifer
 
