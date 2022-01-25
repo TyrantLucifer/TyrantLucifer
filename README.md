@@ -8,8 +8,8 @@
 ---
 
 <div>
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
-<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
+<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
 </div>
 
 ### I'm Tyrant Lucifer
