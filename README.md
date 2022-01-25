@@ -7,10 +7,7 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=tyrantlucifer)
 ---
 
-<div>
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
-<img alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
-</div>
 
 ### I'm Tyrant Lucifer
 
@@ -19,6 +16,8 @@
 - 💬 Ask me about Linux, Big data, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
 - ⚡ Fun fact: Big Data technology📊
 
+
+<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
 
 ### Tech Stack
 
