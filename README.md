@@ -35,6 +35,7 @@
 - [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(A ssr command client that support all platform based python) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/ssr-command-client?style=social) 
 - [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(A plugin that can auto upload images to github in typora) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/TyporaUploadImgPlug?style=social)
 - [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(A set of some awesome shells) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/Awesome-one-click-shell?style=social)
+- [DataStructure](https://github.com/TyrantLucifer/DataStructure)(Implementation of data structure algorithm by c, cpp and java) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/DataStructure?style=social)
 
 ### About me
 - [blog](http://tyrantlucifer.com)
