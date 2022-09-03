@@ -16,19 +16,18 @@
 - 💬 Ask me about Linux, Big data, Python and my projects on [tyrantlucifer@gmail.com](mailto:tyrantlucifer@gmail.com)
 - ⚡ Fun fact: Big Data technology📊
 
-
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrantlucifer&layout=compact" />
 
 ### Tech Stack
 
-- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache%20Hadoop&logoColor=FCC624)
-![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark&logoColor=FCC624)
-![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=Apache%20Flink&logoColor=FCC624)
+- ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache%20Hadoop)
+![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark)
+![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=Apache%20Flink)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=Apache%20Kafka)
 
-- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle&logoColor=FCC624)
-![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=FCC624)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
+- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle)
+![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -38,6 +37,7 @@
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 ### Open Source Projects
 - [SeaTunnel](https://github.com/apache/incubator-seatunnel)(SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social)
