@@ -2,18 +2,18 @@
 
 ## Hello GitHub Fans 👋
 [![技术交流群](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4-554069363-green "技术交流群")](https://jq.qq.com/?_wv=1027&k=fVfRKuhK"技术交流群")
-[![Mail Badge](https://img.shields.io/badge/E--mail-TyrantLucifer%40gmail.com-green.svg)](mailto:tyrantlucifer@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/E--mail-tyrantlucifer%40gmail.com-green.svg)](mailto:tyrantlucifer@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/tyrantlucifer?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=tyrantlucifer)
 ---
 
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=tyrantlucifer" />
 
-### I'm Tyrant Lucifer
+### I'm Lucifer Tyrant
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently I am a big data engineer and working in Beijing of China.
-- 💬 Ask me about Linux, Big data, Python and my projects on [TyrantLucifer@gmail.com](mailto:TyrantLucifer@gmail.com)
+- 💬 Ask me about Linux, Big data, Python and my projects on [tyrantlucifer@gmail.com](mailto:tyrantlucifer@gmail.com)
 - ⚡ Fun fact: Big Data technology📊
 
 
@@ -21,23 +21,32 @@
 
 ### Tech Stack
 
-- 💻 &#160; ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FCC624)
+- ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=Apache%20Hadoop&logoColor=FCC624)
+![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=Apache%20Spark&logoColor=FCC624)
+![Flink](https://img.shields.io/badge/-Flink-333333?style=flat&logo=Apache%20Flink&logoColor=FCC624)
+
+- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Oracle&logoColor=FCC624)
 ![Scala](https://img.shields.io/badge/-Scala-333333?style=flat&logo=Scala&logoColor=FCC624)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=FCC624)
+
+- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Clickhouse](https://img.shields.io/badge/-Clisehouse-333333?style=flat&logo=clickhouse)
+
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### Open Source Projects
+- [SeaTunnel](https://github.com/apache/incubator-seatunnel)(SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social)
 - [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(A ssr command client that support all platform based python) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/ssr-command-client?style=social) 
 - [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(A plugin that can auto upload images to github in typora) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/TyporaUploadImgPlug?style=social)
-- [Awesome-one-click-shell](https://github.com/TyrantLucifer/Awesome-one-click-shell)(A set of some awesome shells) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/Awesome-one-click-shell?style=social)
 - [DataStructure](https://github.com/TyrantLucifer/DataStructure)(Implementation of data structure algorithm by c, cpp and java) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/DataStructure?style=social)
 
 ### About me
+
 - [blog](http://tyrantlucifer.com)
 - [twitter](https://twitter.com/tyrantlucifer)
 
