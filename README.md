@@ -47,7 +47,7 @@
 
 ### About me
 
-- [blog](http://tyrantlucifer.com)
+- [about](http://tyrantlucifer.com/about)
 - [twitter](https://twitter.com/tyrantlucifer)
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
