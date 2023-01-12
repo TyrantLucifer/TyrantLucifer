@@ -1,8 +1,7 @@
 [comment]: <> "# 模板合集：https://github.com/kautukkundan/Awesome-Profile-README-templates"
 
 ## Hello GitHub Fans 👋
-[![技术交流群](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E4%BA%A4%E6%B5%81%E7%BE%A4-554069363-green "技术交流群")](https://jq.qq.com/?_wv=1027&k=fVfRKuhK"技术交流群")
-[![Mail Badge](https://img.shields.io/badge/E--mail-tyrantlucifer%40gmail.com-green.svg)](mailto:tyrantlucifer@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/E--mail-tyrantlucifer%40apache.org-green.svg)](mailto:tyrantlucifer@apache.org)
 ![GitHub followers](https://img.shields.io/github/followers/tyrantlucifer?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=tyrantlucifer)
 ---
