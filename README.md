@@ -39,7 +39,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 ### Open Source Projects
-- [SeaTunnel](https://github.com/apache/incubator-seatunnel)(SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social)
+- [Apache SeaTunnel](https://github.com/apache/incubator-seatunnel)(SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social)
+- [Apache StreamPark](https://github.com/apache/incubator-streampark)(StreamPark is an easy-to-use stream processing application development framework and one-stop stream processing operation platform, Aimed at ease building and managing streaming applications) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/incubator-streampark?style=social)
 - [ssr-command-client](https://github.com/TyrantLucifer/ssr-command-client)(A ssr command client that support all platform based python) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/ssr-command-client?style=social) 
 - [TyporaUploadImgPlug](https://github.com/TyrantLucifer/TyporaUploadImgPlug)(A plugin that can auto upload images to github in typora) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/TyporaUploadImgPlug?style=social)
 - [DataStructure](https://github.com/TyrantLucifer/DataStructure)(Implementation of data structure algorithm by c, cpp and java) ![GitHub Repo stars](https://img.shields.io/github/stars/tyrantlucifer/DataStructure?style=social)
